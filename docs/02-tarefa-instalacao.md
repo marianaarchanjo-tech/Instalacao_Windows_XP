@@ -35,7 +35,8 @@ Interagir com o instalador em modo texto dentro do ambiente virtualizado do Virt
 ## 📝 Entregáveis desta Etapa
 
 ### 📸 [EVIDÊNCIA]
-*Insira aqui uma captura de tela da janela do VirtualBox mostrando o desktop do Windows XP inicializado pela primeira vez com o papel de parede clássico (Bliss).*
+*<img width="801" height="676" alt="Captura de tela 2026-05-22 104014" src="https://github.com/user-attachments/assets/64cb2862-5fc6-40e4-9e04-d75eea2d24c4" />
+*
 
 ### ❓ [QUESTÃO 2]
 Se por engano você pressionasse uma tecla quando a VM reiniciou entre a Fase 1 e a Fase 2, o que aconteceria com o fluxo da atividade? O instalador continuaria de onde parou ou reiniciaria o processo do zero?
