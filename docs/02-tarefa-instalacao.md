@@ -42,7 +42,7 @@ Interagir com o instalador em modo texto dentro do ambiente virtualizado do Virt
 Se por engano você pressionasse uma tecla quando a VM reiniciou entre a Fase 1 e a Fase 2, o que aconteceria com o fluxo da atividade? O instalador continuaria de onde parou ou reiniciaria o processo do zero?
 
 **Sua Resposta:**
-> 
+> Se uma tecla fosse pressionada durante a reinicialização da máquina virtual entre a Fase 1 e a Fase 2, a VM iniciaria novamente pelo disco de instalação do sistema operacional. Com isso, o instalador poderia reiniciar o processo de instalação desde o começo, em vez de continuar da etapa em que havia parado. Isso ocorre porque o sistema interpretaria o comando como uma tentativa de dar boot novamente pela mídia de instalação, e não pelo disco rígido virtual onde os arquivos já haviam sido copiados.
 
 ---
 [⬅️ Voltar para a Etapa 1](01-tarefa-pre-requisitos.md) | [Ir para a Etapa 3 ➡️](03-tarefa-pos-instalacao.md)
